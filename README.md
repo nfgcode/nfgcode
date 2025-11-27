@@ -1,13 +1,89 @@
-## Hi there, My name is Nurfauzan Gymnastiar 👋
+# Hi there! 👋 I'm Nurfauzan Gymnastiar
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm passionate about building modern web applications with cutting-edge technologies. I love creating beautiful, responsive, and user-friendly interfaces.
 
-- 🔭 I’m currently working on Front-End Developer
-- 🌱 I’m currently learning Full-Stack Developer
-- 📫 How to reach me: instagram.com/zannwashere
+---
 
+## 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="Programming Languages" />
+</p>
 
+---
 
-![Zan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfgcode&show_icons=true&theme=transparent)
+## 🛠️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,react,nodejs,express,spring,nestjs,tailwind" alt="Frameworks & Libraries" />
+</p>
 
+---
 
+## 🔧 Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,docker,postman,figma" alt="Development Tools" />
+</p>
+
+---
+
+## 🗄️ Databases & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,supabase,aws" alt="Databases & Cloud" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🎯 [Raise Production Website](https://raise-production.vercel.app)
+A modern photography service website built with Vue.js, featuring:
+- 📸 Portfolio showcase with image slider
+- 💰 Interactive pricing packages
+- 📝 Contact form with WhatsApp integration
+- ⭐ Client testimonials
+- 🎨 Responsive design with Tailwind CSS
+
+**Tech Stack:** Vue 3, Vite, Tailwind CSS, Vue Router
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/nurfauzangymnastiar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/nurfauzangymnastiar">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:nurfauzangymnastiar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://msha.ke/nurfauzann.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nfgcode&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  💼 Open for collaboration and freelance opportunities!
+</p>
