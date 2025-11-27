@@ -6,6 +6,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Full-Stack Developer
 - 📫 How to reach me: instagram.com/zannwashere
 
-[![Zan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfgcode)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Zan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nfgcode&show_icons=true&theme=transparent)
 
 
