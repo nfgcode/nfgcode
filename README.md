@@ -14,7 +14,7 @@ I'm passionate about building modern web applications with cutting-edge technolo
 
 ## 🛠️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nodejs,express,,tailwind" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=vue,nodejs,express,tailwind" alt="Frameworks & Libraries" />
 </p>
 
 ---
