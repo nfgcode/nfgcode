@@ -77,7 +77,7 @@ A modern photography service website built with Vue.js, featuring:
 ---
 
 <p align="center">
-  <img src= https://komarev.com/ghpvc/?username=nfgcode/>
+  <img src="https://komarev.com/ghpvc/?username=nfgcode" alt="Views Github/>
 </p>
 
 <p align="center">
