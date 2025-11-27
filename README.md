@@ -43,7 +43,7 @@ I'm passionate about building modern web applications with cutting-edge technolo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfgceode&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfgcode&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
