@@ -42,9 +42,6 @@ I'm passionate about building modern web applications with cutting-edge technolo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfgcode&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center href="https://git.io/streak-stats" 
-  <img src="https://streak-stats.demolab.com?user=nfgcode&theme=dark&locale=id&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&hide_total_contributions=true&hide_current_streak=true" alt="GitHub Streak" /></p>
-
 ---
 
 ## 🌟 Featured Projects
@@ -80,7 +77,7 @@ A modern photography service website built with Vue.js, featuring:
 ---
 
 <p align="center">
-  <img src= https://komarev.com/ghpvc/?username=nfgcode&label=PROFILE+VIEWS/>
+  <img src= https://komarev.com/ghpvc/?username=nfgcode/>
 </p>
 
 <p align="center">
