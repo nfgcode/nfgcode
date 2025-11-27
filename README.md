@@ -28,7 +28,7 @@ I'm passionate about building modern web applications with cutting-edge technolo
 
 ## 🗄️ Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase,supabase,aws" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,aws" alt="Databases & Cloud" />
 </p>
 
 ---
@@ -38,7 +38,7 @@ I'm passionate about building modern web applications with cutting-edge technolo
   <img src="https://github-readme-stats.vercel.app/api?username=nfgcode&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nfgcode)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nfgcode" alt="GitHub Streak" /></a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfgcode&layout=compact&theme=radical" alt="Top Languages" />
