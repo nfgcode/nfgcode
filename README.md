@@ -38,9 +38,7 @@ I'm passionate about building modern web applications with cutting-edge technolo
   <img src="https://github-readme-stats.vercel.app/api?username=nfgcode&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nfgcode&theme=radical" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nfgcode)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfgcode&layout=compact&theme=radical" alt="Top Languages" />
@@ -73,7 +71,7 @@ A modern photography service website built with Vue.js, featuring:
   <a href="mailto:nurfauzangymnastiar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://msha.ke/nurfauzann.com">
+  <a href="https://msha.ke/nurfauzann">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -81,7 +79,7 @@ A modern photography service website built with Vue.js, featuring:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nfgcode&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=nfgcode&label=PROFILE+VIEWS)
 </p>
 
 <p align="center">
