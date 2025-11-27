@@ -38,7 +38,8 @@ I'm passionate about building modern web applications with cutting-edge technolo
   <img src="https://github-readme-stats.vercel.app/api?username=nfgcode&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nfgcode&locale=id&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+<p align="center" href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nfgcode" alt="GitHub Streak" /></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfgcode&layout=compact&theme=radical" alt="Top Languages" />
