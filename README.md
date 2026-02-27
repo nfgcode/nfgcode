@@ -1,57 +1,59 @@
 # Hi there! 👋 I'm Nurfauzan Gymnastiar
 
 ## 🚀 About Me
-I'm passionate about building modern web applications with cutting-edge technologies. I love creating beautiful, responsive, and user-friendly interfaces.
+I'm passionate about building modern web applications with cutting-edge technologies.  
+I love creating beautiful, responsive, and user-friendly interfaces.
 
 ---
 
 ## 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
 ---
 
 ## 🛠️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,nodejs,express,tailwind,dart" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=vue,nodejs,express,tailwind,dart" />
 </p>
 
 ---
 
 ## 🔧 Development Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,docker,postman,figma" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,docker,postman,figma" />
 </p>
 
 ---
 
 ## 🗄️ Databases & Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,aws" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,aws" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
+<!-- Overall GitHub Stats (STABLE VERSION) -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nfgcode&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=nfgcode&show_icons=true&theme=radical&hide_border=true"
   />
 </p>
 
+<!-- GitHub Streak -->
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=nfgcode&theme=radical&hide_border=true"
-    alt="GitHub Streak"
   />
 </p>
 
+<!-- Top Languages (STABLE VERSION) -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfgcode&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfgcode&layout=compact&theme=radical&hide_border=true"
   />
 </p>
 
@@ -59,12 +61,13 @@ I'm passionate about building modern web applications with cutting-edge technolo
 
 ## 🌟 Featured Projects
 
-### 🎯 [Raise Production Website](https://raise-production.vercel.app)
+### 🎯 Raise Production Website
+🔗 https://raise-production.vercel.app  
+
 A modern photography service website built with Vue.js, featuring:
-- 📸 Portfolio showcase with image slider
-- 💰 Interactive pricing packages
-- 📝 Contact form with WhatsApp integration
-- ⭐ Client testimonials
+- 📸 Portfolio showcase
+- 💰 Pricing packages
+- 📝 WhatsApp contact integration
 - 🎨 Responsive design with Tailwind CSS
 
 **Tech Stack:** Vue 3, Vite, Tailwind CSS, Vue Router
@@ -74,16 +77,13 @@ A modern photography service website built with Vue.js, featuring:
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/nurfauzangymnastiar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://twitter.com/nurfauzangymnastiar">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
   </a>
   <a href="mailto:nurfauzangymnastiar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://msha.ke/nurfauzann">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
