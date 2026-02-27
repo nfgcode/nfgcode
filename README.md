@@ -36,10 +36,10 @@ I love creating beautiful, responsive, and user-friendly interfaces.
 
 ## 📊 GitHub Stats
 
-<!-- Overall GitHub Stats (STABLE VERSION) -->
+<!-- Overall Stats (CACHE + MIRROR) -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nfgcode&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nfgcode&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
   />
 </p>
 
@@ -50,11 +50,17 @@ I love creating beautiful, responsive, and user-friendly interfaces.
   />
 </p>
 
-<!-- Top Languages (STABLE VERSION) -->
+<!-- Top Languages (CACHE + MIRROR) -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nfgcode&layout=compact&theme=radical&hide_border=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nfgcode&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
   />
+</p>
+
+---
+
+<p align="center">
+  💼 Open for collaboration and freelance opportunities!
 </p>
 
 ---
