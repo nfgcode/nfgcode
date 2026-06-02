@@ -32,39 +32,6 @@ I love creating beautiful, responsive, and user-friendly interfaces.
   <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,aws" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<!-- Overall Stats (CACHE + MIRROR) -->
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nfgcode&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
-  />
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=nfgcode&theme=radical&hide_border=true"
-  />
-</p>
-
-<!-- Top Languages (CACHE + MIRROR) -->
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nfgcode&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
-  />
-</p>
-
----
-
-<p align="center">
-  💼 Open for collaboration and freelance opportunities!
-</p>
-
----
-
 ## 🌟 Featured Projects
 
 ### 🎯 Raise Production Website
